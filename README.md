@@ -14,7 +14,7 @@ A clean, interactive personal finance dashboard built with **React** and **CSS**
 
 ```bash
 # Clone / unzip the project
-cd finance-dashboard
+cd Zorvyn-Finance-Dashboard-main
 
 # Install dependencies
 npm install
